@@ -8,7 +8,7 @@ The code files are organised as follows:
 3. **grad.m** contains code for variable diffusivity. 
 4. **ls.m** contains code to implement level set method for a circle and a square.
 5. **imgs** contains initial images. 
-6. **gifs** contains gifs of some particular configurations. *Updated*
+6. **gifs** contains gifs of some particular configurations. *Updated ('c' means constant diffusivity, 'nc' means non-constant).*
 9. **APMA_935_Project_KP.pdf** contains my report.
 
 Thanks for visiting :)
